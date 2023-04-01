@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "591538229954",
+    "project_id": "social-media-app-260b2",
+    "storage_bucket": "social-media-app-260b2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:591538229954:android:81b9f6a5b9081f2d18e15b",
+        "android_client_info": {
+          "package_name": "com.hanif.social"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "591538229954-rkqi4npv11v09bta8fu1ug9ipv4li38p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhA-pVzUybD2Jg7wnOL5SjIF5nPUPKkTQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "591538229954-rkqi4npv11v09bta8fu1ug9ipv4li38p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
